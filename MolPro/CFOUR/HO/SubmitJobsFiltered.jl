@@ -1,6 +1,6 @@
-point::Int64 = 6000 # 1868
+point::Int64 = 6670 # 1868 # 6670 6725
 jobSplit::Int64 = 1
-numberOfJobs::Int64 = 7000
+numberOfJobs::Int64 = 5
 
 # Recompute up to point 55! on cc=11 and scf=11
 
@@ -24,7 +24,7 @@ for i in 1:numberOfJobs
         computedContributions[4] = true
     end
     if count(==(false), computedContributions) >= 1
-        run(`qsub -e HOCl_HO_$(point)-$(point + jobSplit).e -o HOCl_HO_$(point)-$(point + jobSplit).o -l h_rt="2:59:00" -l mem=20G -l tmpfs=100G RunMolproJobs.csh $(point) $(point + jobSplit)`)
+        run(`qsub -e HOCl_HO_$(point)-$(point + jobSplit).e -o HOCl_HO_$(point)-$(point + jobSplit).o -l h_rt="4:59:00" -l mem=20G -l tmpfs=100G RunMolproJobs.csh $(point) $(point + jobSplit)`)
         println(point, " submitted for computing HO corrections")
     end
     global point = point + jobSplit
