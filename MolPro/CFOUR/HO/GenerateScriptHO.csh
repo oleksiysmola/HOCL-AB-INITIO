@@ -12,7 +12,8 @@ set directory = /home/zcaposm/Scratch/HOCl/MolPro/CFOUR/HO/ComputedCorrections
 
 set fname1 = cfour_HOCl_HO_PTRIPLES_VTZ_${point}
 set scf_conv=11
-set cc_conv=8
+set cc_conv=9
+set cc_cycles=1000
 
 cat<<endb> ZMAT
 Hypochlorous acid CCSD(T)/aug-cc-pVTZ
@@ -26,7 +27,7 @@ A=$4
                                                                                 
                                                                                 
 *CFOUR(CALC=CCSD(T),BASIS=AUG-PVTZ,SCF_CONV=$scf_conv                                     
-CC_CONV=${cc_conv},FROZEN_CORE=ON,MEMORY=5000000000) 
+CC_CONV=${cc_conv},CC_MAXCYC=${cc_cycles},FROZEN_CORE=ON,MEMORY=5000000000) 
 endb
 
 /home/zcaposm/bin/xcfour > ${fname1}.out
@@ -47,56 +48,11 @@ ROCL=$3
 A=$4                                                                  
                                                                                 
                                                                                 
-*CFOUR(CALC=CCSDT,BASIS=AUG-PVTZ,SCF_CONV=$scf_conv                                      
-CC_CONV=${cc_conv},FROZEN_CORE=ON,MEMORY=5000000000) 
+*CFOUR(CALC=CCSDT(Q),BASIS=AUG-PVTZ,SCF_CONV=$scf_conv                                      
+CC_CONV=${cc_conv},CC_MAXCYC=${cc_cycles},FROZEN_CORE=ON,MEMORY=5000000000) 
 endb
 
 /home/zcaposm/bin/xcfour > ${fname2}.out
 rm ZMAT
 cp ${fname2}.out ${directory}
 /home/zcaposm/bin/xclean
-
-set fname3 = cfour_HOCl_HO_FULLTRIPLES_VDZ_${point}
-
-cat<<endb> ZMAT
-Hypochlorous acid CCSDT/aug-cc-pVDZ
-O
-H 1 ROH
-CL 1 ROCL 2 A                                                                
-                                                                                
-ROH= $2
-ROCL=$3
-A=$4                                                                  
-                                                                                
-                                                                                
-*CFOUR(CALC=CCSDT,BASIS=AUG-PVDZ,SCF_CONV=$scf_conv                                     
-CC_CONV=${cc_conv},FROZEN_CORE=ON,MEMORY=5000000000) 
-endb
-
-/home/zcaposm/bin/xcfour > ${fname3}.out
-rm ZMAT
-cp ${fname3}.out ${directory}
-/home/zcaposm/bin/xclean
-
-set fname4 = cfour_HOCl_HO_PQUADRUPLES_VDZ_${point}
-
-cat<<endb> ZMAT
-Hypochlorous acid CCSDT(Q)/aug-cc-pVDZ
-O
-H 1 ROH
-CL 1 ROCL 2 A                                                                
-                                                                                
-ROH= $2
-ROCL=$3
-A=$4                                                                  
-                                                                                
-                                                                                
-*CFOUR(CALC=CCSDT(Q),BASIS=AUG-PVDZ,SCF_CONV=$scf_conv                                      
-CC_CONV=${cc_conv},FROZEN_CORE=ON,MEMORY=5000000000) 
-endb
-
-/home/zcaposm/bin/xcfour > ${fname4}.out
-rm ZMAT
-cp ${fname4}.out ${directory}
-/home/zcaposm/bin/xclean
-

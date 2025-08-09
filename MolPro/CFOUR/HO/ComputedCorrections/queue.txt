@@ -1,0 +1,863 @@
+job-ID  prior   name       user         state submit/start at     queue                          slots ja-task-ID 
+-----------------------------------------------------------------------------------------------------------------
+ 202720 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:43:59 Bran@node-d00b-018.myriad.ucl.     1        
+ 202721 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:11 Bran@node-b00a-002                 1        
+ 202722 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:12 Bran@node-b00a-002                 1        
+ 202723 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:12 Bran@node-b00a-002                 1        
+ 202724 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:12 Bran@node-b00a-009.myriad.ucl.     1        
+ 202725 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:12 Bran@node-b00a-009.myriad.ucl.     1        
+ 202726 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:12 Bran@node-b00a-006                 1        
+ 202727 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:12 Bran@node-b00a-014.myriad.ucl.     1        
+ 202728 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:12 Bran@node-b00a-014.myriad.ucl.     1        
+ 202729 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:12 Bran@node-b00a-014.myriad.ucl.     1        
+ 202730 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:13 Bran@node-b00a-011.myriad.ucl.     1        
+ 202731 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:13 Bran@node-b00a-011.myriad.ucl.     1        
+ 202732 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:13 Bran@node-b00a-011.myriad.ucl.     1        
+ 202733 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:13 Bran@node-b00a-011.myriad.ucl.     1        
+ 202734 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:13 Bran@node-b00a-004                 1        
+ 202735 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:13 Bran@node-b00a-004                 1        
+ 202736 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:13 Bran@node-b00a-004                 1        
+ 202737 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:13 Bran@node-b00a-004                 1        
+ 202738 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:14 Bran@node-b00a-004                 1        
+ 202739 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:14 Bran@node-b00a-008                 1        
+ 202740 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:14 Bran@node-b00a-008                 1        
+ 202741 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:14 Bran@node-b00a-008                 1        
+ 202742 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:14 Bran@node-b00a-008                 1        
+ 202743 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:14 Bran@node-d00a-164.myriad.ucl.     1        
+ 202744 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:50:15 Bran@node-d00a-058.myriad.ucl.     1        
+ 202745 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:58:54 Bran@node-b00a-008                 1        
+ 202746 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:58:54 Bran@node-b00a-008                 1        
+ 202747 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:58:54 Bran@node-b00a-008                 1        
+ 202748 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:58:55 Bran@node-b00a-008                 1        
+ 202749 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:58:55 Bran@node-b00a-008                 1        
+ 202750 2.01786 RunMolproJ zcaposm      r     08/08/2025 22:58:55 Bran@node-b00a-008                 1        
+ 202751 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:06:15 Bran@node-b00a-003                 1        
+ 202790 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:36:03 Bran@node-b00a-010.myriad.ucl.     1        
+ 202792 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:42:57 Bran@node-d00a-104.myriad.ucl.     1        
+ 202793 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:42:58 Bran@node-d00a-138.myriad.ucl.     1        
+ 202794 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:49:14 Bran@node-b00a-013.myriad.ucl.     1        
+ 202795 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:49:15 Bran@node-b00a-010.myriad.ucl.     1        
+ 202796 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:49:15 Bran@node-b00a-010.myriad.ucl.     1        
+ 202797 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:49:15 Bran@node-b00a-010.myriad.ucl.     1        
+ 202798 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:49:15 Bran@node-d00a-009                 1        
+ 202799 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:09 Bran@node-b00a-012.myriad.ucl.     1        
+ 202801 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:09 Bran@node-b00a-012.myriad.ucl.     1        
+ 202802 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:09 Bran@node-b00a-006                 1        
+ 202803 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:09 Bran@node-b00a-006                 1        
+ 202804 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:09 Bran@node-b00a-013.myriad.ucl.     1        
+ 202805 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:10 Bran@node-b00a-014.myriad.ucl.     1        
+ 202806 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:10 Bran@node-b00a-010.myriad.ucl.     1        
+ 202807 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:10 Bran@node-b00a-010.myriad.ucl.     1        
+ 202808 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:10 Bran@node-b00a-010.myriad.ucl.     1        
+ 202809 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:11 Bran@node-b00a-002                 1        
+ 202810 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:52:11 Bran@node-b00a-004                 1        
+ 202811 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:56:07 Bran@node-b00a-009.myriad.ucl.     1        
+ 202812 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:56:07 Bran@node-b00a-002                 1        
+ 202813 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:56:07 Bran@node-b00a-002                 1        
+ 202814 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:56:07 Bran@node-b00a-002                 1        
+ 202815 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:56:07 Bran@node-b00a-002                 1        
+ 202816 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:56:08 Bran@node-b00a-002                 1        
+ 202817 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:56:08 Bran@node-b00a-002                 1        
+ 202818 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:59:12 Bran@node-b00a-002                 1        
+ 202819 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:59:12 Bran@node-b00a-002                 1        
+ 202820 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:59:12 Bran@node-b00a-010.myriad.ucl.     1        
+ 202821 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:59:12 Bran@node-b00a-004                 1        
+ 202822 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:59:13 Bran@node-b00a-004                 1        
+ 202823 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:59:13 Bran@node-b00a-004                 1        
+ 202824 2.01786 RunMolproJ zcaposm      r     08/08/2025 23:59:13 Bran@node-b00a-004                 1        
+ 202825 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:01:57 Bran@node-b00a-004                 1        
+ 202826 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:01:57 Bran@node-b00a-004                 1        
+ 202827 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:01:57 Bran@node-b00a-010.myriad.ucl.     1        
+ 202828 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:08:08 Bran@node-b00a-004                 1        
+ 202829 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:11:15 Bran@node-b00a-003                 1        
+ 202830 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:11:15 Bran@node-b00a-003                 1        
+ 202831 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:26 Bran@node-b00a-003                 1        
+ 202832 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:28 Bran@node-b00a-012.myriad.ucl.     1        
+ 202833 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:28 Bran@node-b00a-012.myriad.ucl.     1        
+ 202834 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:28 Bran@node-b00a-006                 1        
+ 202835 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:28 Bran@node-b00a-009.myriad.ucl.     1        
+ 202836 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:28 Bran@node-b00a-011.myriad.ucl.     1        
+ 202837 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:29 Bran@node-b00a-011.myriad.ucl.     1        
+ 202838 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:29 Bran@node-b00a-011.myriad.ucl.     1        
+ 202839 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:30 Bran@node-b00a-011.myriad.ucl.     1        
+ 202841 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:30 Bran@node-b00a-010.myriad.ucl.     1        
+ 202842 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:30 Bran@node-b00a-010.myriad.ucl.     1        
+ 202843 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:14:30 Bran@node-b00a-010.myriad.ucl.     1        
+ 204180 2.01786 RunMolproJ zcaposm      r     08/09/2025 00:08:13 Bran@node-d00a-081.myriad.ucl.     1        
+ 202844 2.01573 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202845 2.01555 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202846 2.01537 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202847 2.01520 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202848 2.01503 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202849 2.01487 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202850 2.01471 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202851 2.01455 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202852 2.01440 RunMolproJ zcaposm      qw    08/08/2025 11:49:09                                    1        
+ 202853 2.01425 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202854 2.01410 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202855 2.01396 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202856 2.01382 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202857 2.01368 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202858 2.01355 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202859 2.01341 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202860 2.01328 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202861 2.01316 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202862 2.01303 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202863 2.01291 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202864 2.01279 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202865 2.01267 RunMolproJ zcaposm      qw    08/08/2025 11:49:10                                    1        
+ 202866 2.01255 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202867 2.01244 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202868 2.01233 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202869 2.01222 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202870 2.01211 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202871 2.01200 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202872 2.01190 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202873 2.01179 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202874 2.01169 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202875 2.01159 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202876 2.01150 RunMolproJ zcaposm      qw    08/08/2025 11:49:11                                    1        
+ 202877 2.01140 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202878 2.01131 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202879 2.01121 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202880 2.01112 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202881 2.01103 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202882 2.01095 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202883 2.01086 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202884 2.01077 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202885 2.01069 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202886 2.01061 RunMolproJ zcaposm      qw    08/08/2025 11:49:12                                    1        
+ 202887 2.01052 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202888 2.01044 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202889 2.01036 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202890 2.01029 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202891 2.01021 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202892 2.01013 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202893 2.01006 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202894 2.00999 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202895 2.00991 RunMolproJ zcaposm      qw    08/08/2025 11:49:13                                    1        
+ 202896 2.00984 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202897 2.00977 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202898 2.00970 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202899 2.00963 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202900 2.00957 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202901 2.00950 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202902 2.00944 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202903 2.00937 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202904 2.00931 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202905 2.00924 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202906 2.00918 RunMolproJ zcaposm      qw    08/08/2025 11:49:14                                    1        
+ 202907 2.00912 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202908 2.00906 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202909 2.00900 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202910 2.00894 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202911 2.00888 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202912 2.00883 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202913 2.00877 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202914 2.00871 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202915 2.00866 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202916 2.00860 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202917 2.00855 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202918 2.00850 RunMolproJ zcaposm      qw    08/08/2025 11:49:15                                    1        
+ 202919 2.00845 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202920 2.00839 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202921 2.00834 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202922 2.00829 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202923 2.00824 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202924 2.00819 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202925 2.00814 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202926 2.00810 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202927 2.00805 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202928 2.00800 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202929 2.00795 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202930 2.00791 RunMolproJ zcaposm      qw    08/08/2025 11:49:16                                    1        
+ 202931 2.00786 RunMolproJ zcaposm      qw    08/08/2025 11:49:17                                    1        
+ 202932 2.00782 RunMolproJ zcaposm      qw    08/08/2025 11:49:17                                    1        
+ 202933 2.00777 RunMolproJ zcaposm      qw    08/08/2025 11:49:17                                    1        
+ 202934 2.00773 RunMolproJ zcaposm      qw    08/08/2025 11:49:17                                    1        
+ 202935 2.00769 RunMolproJ zcaposm      qw    08/08/2025 11:49:17                                    1        
+ 202936 2.00764 RunMolproJ zcaposm      qw    08/08/2025 11:49:17                                    1        
+ 202937 2.00760 RunMolproJ zcaposm      qw    08/08/2025 11:49:17                                    1        
+ 202938 2.00756 RunMolproJ zcaposm      qw    08/08/2025 11:49:17                                    1        
+ 202939 2.00752 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202940 2.00748 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202941 2.00744 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202942 2.00740 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202943 2.00736 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202944 2.00732 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202945 2.00728 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202946 2.00724 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202947 2.00720 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202948 2.00716 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202949 2.00713 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202950 2.00709 RunMolproJ zcaposm      qw    08/08/2025 11:49:18                                    1        
+ 202951 2.00705 RunMolproJ zcaposm      qw    08/08/2025 11:49:19                                    1        
+ 202952 2.00702 RunMolproJ zcaposm      qw    08/08/2025 11:49:19                                    1        
+ 202953 2.00698 RunMolproJ zcaposm      qw    08/08/2025 11:49:19                                    1        
+ 202954 2.00694 RunMolproJ zcaposm      qw    08/08/2025 11:49:19                                    1        
+ 202955 2.00691 RunMolproJ zcaposm      qw    08/08/2025 11:49:19                                    1        
+ 202956 2.00688 RunMolproJ zcaposm      qw    08/08/2025 11:49:19                                    1        
+ 202957 2.00684 RunMolproJ zcaposm      qw    08/08/2025 11:49:19                                    1        
+ 204181 2.00681 RunMolproJ zcaposm      qw    08/08/2025 12:29:36                                    1        
+ 204182 2.00677 RunMolproJ zcaposm      qw    08/08/2025 12:29:36                                    1        
+ 204183 2.00674 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204184 2.00671 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204185 2.00667 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204186 2.00664 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204187 2.00661 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204188 2.00658 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204189 2.00655 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204190 2.00651 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204191 2.00648 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204192 2.00645 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204193 2.00642 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204194 2.00639 RunMolproJ zcaposm      qw    08/08/2025 12:29:37                                    1        
+ 204195 2.00636 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204196 2.00633 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204197 2.00630 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204198 2.00628 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204199 2.00625 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204200 2.00622 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204201 2.00619 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204202 2.00616 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204203 2.00614 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204204 2.00611 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204205 2.00608 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204206 2.00605 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204207 2.00603 RunMolproJ zcaposm      qw    08/08/2025 12:29:38                                    1        
+ 204208 2.00600 RunMolproJ zcaposm      qw    08/08/2025 12:29:39                                    1        
+ 204209 2.00597 RunMolproJ zcaposm      qw    08/08/2025 12:29:39                                    1        
+ 204210 2.00595 RunMolproJ zcaposm      qw    08/08/2025 12:29:39                                    1        
+ 204211 2.00592 RunMolproJ zcaposm      qw    08/08/2025 12:29:39                                    1        
+ 204212 2.00590 RunMolproJ zcaposm      qw    08/08/2025 12:29:39                                    1        
+ 204213 2.00587 RunMolproJ zcaposm      qw    08/08/2025 12:29:39                                    1        
+ 204214 2.00585 RunMolproJ zcaposm      qw    08/08/2025 12:29:39                                    1        
+ 204215 2.00582 RunMolproJ zcaposm      qw    08/08/2025 12:29:39                                    1        
+ 204220 2.00580 RunMolproJ zcaposm      qw    08/08/2025 12:30:25                                    1        
+ 204227 2.00577 RunMolproJ zcaposm      qw    08/08/2025 12:32:34                                    1        
+ 204228 2.00575 RunMolproJ zcaposm      qw    08/08/2025 12:32:34                                    1        
+ 204229 2.00572 RunMolproJ zcaposm      qw    08/08/2025 12:32:35                                    1        
+ 204230 2.00570 RunMolproJ zcaposm      qw    08/08/2025 12:32:35                                    1        
+ 204231 2.00568 RunMolproJ zcaposm      qw    08/08/2025 12:32:35                                    1        
+ 208989 2.00565 RunMolproJ zcaposm      qw    08/08/2025 15:59:36                                    1        
+ 208990 2.00563 RunMolproJ zcaposm      qw    08/08/2025 15:59:36                                    1        
+ 208991 2.00561 RunMolproJ zcaposm      qw    08/08/2025 15:59:36                                    1        
+ 208992 2.00558 RunMolproJ zcaposm      qw    08/08/2025 15:59:36                                    1        
+ 208993 2.00556 RunMolproJ zcaposm      qw    08/08/2025 15:59:36                                    1        
+ 208994 2.00554 RunMolproJ zcaposm      qw    08/08/2025 15:59:36                                    1        
+ 208995 2.00552 RunMolproJ zcaposm      qw    08/08/2025 15:59:36                                    1        
+ 208996 2.00549 RunMolproJ zcaposm      qw    08/08/2025 15:59:36                                    1        
+ 208997 2.00547 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 208998 2.00545 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 208999 2.00543 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209000 2.00541 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209001 2.00539 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209002 2.00537 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209003 2.00534 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209004 2.00532 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209005 2.00530 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209006 2.00528 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209007 2.00526 RunMolproJ zcaposm      qw    08/08/2025 15:59:37                                    1        
+ 209008 2.00524 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209009 2.00522 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209010 2.00520 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209011 2.00518 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209012 2.00516 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209013 2.00514 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209014 2.00512 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209015 2.00510 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209016 2.00509 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209017 2.00507 RunMolproJ zcaposm      qw    08/08/2025 15:59:38                                    1        
+ 209018 2.00505 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209019 2.00503 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209020 2.00501 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209021 2.00499 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209022 2.00498 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209023 2.00496 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209024 2.00494 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209025 2.00492 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209026 2.00490 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209027 2.00489 RunMolproJ zcaposm      qw    08/08/2025 15:59:39                                    1        
+ 209028 2.00487 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209029 2.00485 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209030 2.00483 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209031 2.00482 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209032 2.00480 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209033 2.00478 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209034 2.00477 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209035 2.00475 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209036 2.00473 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209037 2.00472 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209038 2.00470 RunMolproJ zcaposm      qw    08/08/2025 15:59:40                                    1        
+ 209039 2.00469 RunMolproJ zcaposm      qw    08/08/2025 15:59:41                                    1        
+ 209040 2.00467 RunMolproJ zcaposm      qw    08/08/2025 15:59:41                                    1        
+ 209041 2.00465 RunMolproJ zcaposm      qw    08/08/2025 15:59:41                                    1        
+ 209042 2.00464 RunMolproJ zcaposm      qw    08/08/2025 15:59:41                                    1        
+ 209043 2.00462 RunMolproJ zcaposm      qw    08/08/2025 15:59:41                                    1        
+ 209044 2.00461 RunMolproJ zcaposm      qw    08/08/2025 15:59:41                                    1        
+ 209045 2.00459 RunMolproJ zcaposm      qw    08/08/2025 15:59:41                                    1        
+ 209046 2.00458 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209047 2.00456 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209048 2.00455 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209049 2.00453 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209050 2.00452 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209051 2.00450 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209052 2.00449 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209053 2.00447 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209054 2.00446 RunMolproJ zcaposm      qw    08/08/2025 15:59:42                                    1        
+ 209055 2.00444 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209056 2.00443 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209057 2.00441 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209058 2.00440 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209059 2.00439 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209060 2.00437 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209061 2.00436 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209062 2.00434 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209063 2.00433 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209064 2.00432 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209065 2.00430 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209066 2.00429 RunMolproJ zcaposm      qw    08/08/2025 15:59:43                                    1        
+ 209067 2.00428 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209068 2.00426 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209069 2.00425 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209070 2.00424 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209071 2.00422 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209072 2.00421 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209073 2.00420 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209074 2.00418 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209075 2.00417 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209076 2.00416 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209077 2.00415 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209078 2.00413 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209079 2.00412 RunMolproJ zcaposm      qw    08/08/2025 15:59:44                                    1        
+ 209080 2.00411 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209081 2.00410 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209082 2.00408 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209083 2.00407 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209084 2.00406 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209085 2.00405 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209086 2.00404 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209087 2.00402 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209088 2.00401 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209089 2.00400 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209090 2.00399 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209091 2.00398 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209092 2.00397 RunMolproJ zcaposm      qw    08/08/2025 15:59:45                                    1        
+ 209093 2.00395 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209094 2.00394 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209095 2.00393 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209096 2.00392 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209097 2.00391 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209098 2.00390 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209099 2.00389 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209100 2.00388 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209101 2.00386 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209102 2.00385 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209103 2.00384 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209104 2.00383 RunMolproJ zcaposm      qw    08/08/2025 15:59:46                                    1        
+ 209105 2.00382 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209106 2.00381 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209107 2.00380 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209108 2.00379 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209109 2.00378 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209110 2.00377 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209111 2.00376 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209112 2.00375 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209113 2.00374 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209114 2.00373 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209115 2.00372 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209116 2.00371 RunMolproJ zcaposm      qw    08/08/2025 15:59:47                                    1        
+ 209117 2.00370 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209118 2.00369 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209119 2.00368 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209120 2.00367 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209121 2.00366 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209122 2.00365 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209123 2.00364 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209124 2.00363 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209125 2.00362 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209126 2.00361 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209127 2.00360 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209128 2.00359 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209129 2.00358 RunMolproJ zcaposm      qw    08/08/2025 15:59:48                                    1        
+ 209130 2.00357 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209131 2.00356 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209132 2.00355 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209133 2.00354 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209134 2.00354 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209135 2.00353 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209136 2.00352 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209137 2.00351 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209138 2.00350 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209139 2.00349 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209140 2.00348 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209141 2.00347 RunMolproJ zcaposm      qw    08/08/2025 15:59:49                                    1        
+ 209142 2.00346 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209143 2.00345 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209144 2.00345 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209145 2.00344 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209146 2.00343 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209147 2.00342 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209148 2.00341 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209149 2.00340 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209150 2.00339 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209151 2.00339 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209152 2.00338 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209153 2.00337 RunMolproJ zcaposm      qw    08/08/2025 15:59:50                                    1        
+ 209154 2.00336 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209155 2.00335 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209156 2.00335 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209157 2.00334 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209158 2.00333 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209159 2.00332 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209160 2.00331 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209161 2.00330 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209162 2.00330 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209163 2.00329 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209164 2.00328 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209165 2.00327 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209166 2.00327 RunMolproJ zcaposm      qw    08/08/2025 15:59:51                                    1        
+ 209167 2.00326 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209168 2.00325 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209169 2.00324 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209170 2.00323 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209171 2.00323 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209172 2.00322 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209173 2.00321 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209174 2.00320 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209175 2.00320 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209176 2.00319 RunMolproJ zcaposm      qw    08/08/2025 15:59:52                                    1        
+ 209177 2.00318 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209178 2.00317 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209179 2.00317 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209180 2.00316 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209181 2.00315 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209182 2.00315 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209183 2.00314 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209184 2.00313 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209185 2.00312 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209186 2.00312 RunMolproJ zcaposm      qw    08/08/2025 15:59:53                                    1        
+ 209187 2.00311 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209188 2.00310 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209189 2.00310 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209190 2.00309 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209191 2.00308 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209192 2.00307 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209193 2.00307 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209194 2.00306 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209195 2.00305 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209196 2.00305 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209197 2.00304 RunMolproJ zcaposm      qw    08/08/2025 15:59:54                                    1        
+ 209198 2.00303 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209199 2.00303 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209200 2.00302 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209201 2.00301 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209202 2.00301 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209203 2.00300 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209204 2.00299 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209205 2.00299 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209206 2.00298 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209207 2.00297 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209208 2.00297 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209209 2.00296 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209210 2.00295 RunMolproJ zcaposm      qw    08/08/2025 15:59:55                                    1        
+ 209211 2.00295 RunMolproJ zcaposm      qw    08/08/2025 15:59:56                                    1        
+ 209212 2.00294 RunMolproJ zcaposm      qw    08/08/2025 15:59:56                                    1        
+ 209213 2.00294 RunMolproJ zcaposm      qw    08/08/2025 15:59:56                                    1        
+ 209214 2.00293 RunMolproJ zcaposm      qw    08/08/2025 15:59:56                                    1        
+ 209215 2.00292 RunMolproJ zcaposm      qw    08/08/2025 15:59:56                                    1        
+ 209216 2.00292 RunMolproJ zcaposm      qw    08/08/2025 15:59:56                                    1        
+ 209217 2.00291 RunMolproJ zcaposm      qw    08/08/2025 15:59:56                                    1        
+ 209218 2.00290 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209219 2.00290 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209220 2.00289 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209221 2.00289 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209222 2.00288 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209223 2.00287 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209224 2.00287 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209225 2.00286 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209226 2.00286 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209227 2.00285 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209228 2.00284 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209229 2.00284 RunMolproJ zcaposm      qw    08/08/2025 15:59:57                                    1        
+ 209230 2.00283 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209231 2.00283 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209232 2.00282 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209233 2.00282 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209234 2.00281 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209235 2.00280 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209236 2.00280 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209237 2.00279 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209238 2.00279 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209239 2.00278 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209240 2.00278 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209241 2.00277 RunMolproJ zcaposm      qw    08/08/2025 15:59:58                                    1        
+ 209242 2.00276 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209243 2.00276 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209244 2.00275 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209245 2.00275 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209246 2.00274 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209247 2.00274 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209248 2.00273 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209249 2.00273 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209250 2.00272 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209251 2.00271 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209252 2.00271 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209253 2.00270 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209254 2.00270 RunMolproJ zcaposm      qw    08/08/2025 15:59:59                                    1        
+ 209255 2.00269 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209256 2.00269 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209257 2.00268 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209258 2.00268 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209259 2.00267 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209260 2.00267 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209261 2.00266 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209262 2.00266 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209263 2.00265 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209264 2.00265 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209265 2.00264 RunMolproJ zcaposm      qw    08/08/2025 16:00:00                                    1        
+ 209266 2.00264 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209267 2.00263 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209268 2.00263 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209269 2.00262 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209270 2.00262 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209271 2.00261 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209272 2.00261 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209273 2.00260 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209274 2.00260 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209275 2.00259 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209276 2.00259 RunMolproJ zcaposm      qw    08/08/2025 16:00:02                                    1        
+ 209277 2.00258 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209278 2.00258 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209279 2.00257 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209280 2.00257 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209281 2.00256 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209282 2.00256 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209283 2.00255 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209284 2.00255 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209285 2.00254 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209286 2.00254 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209287 2.00253 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209288 2.00253 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209289 2.00252 RunMolproJ zcaposm      qw    08/08/2025 16:00:03                                    1        
+ 209290 2.00252 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209291 2.00251 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209292 2.00251 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209293 2.00251 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209294 2.00250 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209295 2.00250 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209296 2.00249 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209297 2.00249 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209298 2.00248 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209299 2.00248 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209300 2.00247 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209301 2.00247 RunMolproJ zcaposm      qw    08/08/2025 16:00:04                                    1        
+ 209302 2.00247 RunMolproJ zcaposm      qw    08/08/2025 16:00:05                                    1        
+ 209303 2.00246 RunMolproJ zcaposm      qw    08/08/2025 16:00:05                                    1        
+ 209304 2.00246 RunMolproJ zcaposm      qw    08/08/2025 16:00:05                                    1        
+ 209305 2.00245 RunMolproJ zcaposm      qw    08/08/2025 16:00:05                                    1        
+ 209306 2.00245 RunMolproJ zcaposm      qw    08/08/2025 16:00:05                                    1        
+ 210078 2.00244 RunMolproJ zcaposm      qw    08/08/2025 21:43:16                                    1        
+ 210079 2.00244 RunMolproJ zcaposm      qw    08/08/2025 21:43:16                                    1        
+ 210080 2.00243 RunMolproJ zcaposm      qw    08/08/2025 21:43:16                                    1        
+ 210081 2.00243 RunMolproJ zcaposm      qw    08/08/2025 21:43:16                                    1        
+ 210082 2.00243 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210083 2.00242 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210084 2.00242 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210085 2.00241 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210086 2.00241 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210087 2.00240 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210088 2.00240 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210089 2.00240 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210090 2.00239 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210091 2.00239 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210092 2.00238 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210093 2.00238 RunMolproJ zcaposm      qw    08/08/2025 21:43:17                                    1        
+ 210094 2.00238 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210095 2.00237 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210096 2.00237 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210097 2.00236 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210098 2.00236 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210099 2.00235 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210100 2.00235 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210101 2.00235 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210102 2.00234 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210103 2.00234 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210104 2.00233 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210105 2.00233 RunMolproJ zcaposm      qw    08/08/2025 21:43:18                                    1        
+ 210106 2.00233 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210107 2.00232 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210108 2.00232 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210109 2.00231 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210110 2.00231 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210111 2.00231 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210112 2.00230 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210113 2.00230 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210114 2.00230 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210115 2.00229 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210116 2.00229 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210117 2.00228 RunMolproJ zcaposm      qw    08/08/2025 21:43:19                                    1        
+ 210118 2.00228 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210119 2.00228 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210120 2.00227 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210121 2.00227 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210122 2.00227 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210123 2.00226 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210124 2.00226 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210125 2.00225 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210126 2.00225 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210127 2.00225 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210128 2.00224 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210129 2.00224 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210130 2.00224 RunMolproJ zcaposm      qw    08/08/2025 21:43:20                                    1        
+ 210131 2.00223 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210132 2.00223 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210133 2.00222 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210134 2.00222 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210135 2.00222 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210136 2.00221 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210137 2.00221 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210138 2.00221 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210139 2.00220 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210140 2.00220 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210141 2.00220 RunMolproJ zcaposm      qw    08/08/2025 21:43:21                                    1        
+ 210142 2.00219 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210143 2.00219 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210144 2.00219 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210145 2.00218 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210146 2.00218 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210147 2.00218 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210148 2.00217 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210149 2.00217 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210150 2.00216 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210151 2.00216 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210152 2.00216 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210153 2.00215 RunMolproJ zcaposm      qw    08/08/2025 21:43:22                                    1        
+ 210154 2.00215 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210155 2.00215 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210156 2.00214 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210157 2.00214 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210158 2.00214 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210159 2.00213 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210160 2.00213 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210161 2.00213 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210162 2.00212 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210163 2.00212 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210164 2.00212 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210165 2.00211 RunMolproJ zcaposm      qw    08/08/2025 21:43:23                                    1        
+ 210166 2.00211 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210167 2.00211 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210168 2.00210 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210169 2.00210 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210170 2.00210 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210171 2.00210 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210172 2.00209 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210173 2.00209 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210174 2.00209 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210175 2.00208 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210176 2.00208 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210177 2.00208 RunMolproJ zcaposm      qw    08/08/2025 21:43:24                                    1        
+ 210178 2.00207 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210179 2.00207 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210180 2.00207 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210181 2.00206 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210182 2.00206 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210183 2.00206 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210184 2.00205 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210185 2.00205 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210186 2.00205 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210187 2.00205 RunMolproJ zcaposm      qw    08/08/2025 21:43:25                                    1        
+ 210189 2.00204 RunMolproJ zcaposm      qw    08/08/2025 21:43:26                                    1        
+ 210190 2.00204 RunMolproJ zcaposm      qw    08/08/2025 21:43:26                                    1        
+ 210191 2.00204 RunMolproJ zcaposm      qw    08/08/2025 21:43:26                                    1        
+ 210192 2.00203 RunMolproJ zcaposm      qw    08/08/2025 21:43:26                                    1        
+ 210193 2.00203 RunMolproJ zcaposm      qw    08/08/2025 21:43:26                                    1        
+ 210194 2.00203 RunMolproJ zcaposm      qw    08/08/2025 21:43:26                                    1        
+ 210195 2.00202 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210196 2.00202 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210197 2.00202 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210198 2.00201 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210199 2.00201 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210200 2.00201 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210201 2.00201 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210202 2.00200 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210203 2.00200 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210204 2.00200 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210205 2.00199 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210206 2.00199 RunMolproJ zcaposm      qw    08/08/2025 21:43:27                                    1        
+ 210207 2.00199 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210208 2.00199 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210209 2.00198 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210210 2.00198 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210211 2.00198 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210212 2.00197 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210213 2.00197 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210214 2.00197 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210215 2.00197 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210216 2.00196 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210217 2.00196 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210218 2.00196 RunMolproJ zcaposm      qw    08/08/2025 21:43:28                                    1        
+ 210219 2.00195 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210220 2.00195 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210221 2.00195 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210222 2.00195 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210223 2.00194 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210224 2.00194 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210225 2.00194 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210226 2.00194 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210227 2.00193 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210228 2.00193 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210229 2.00193 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210230 2.00192 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210231 2.00192 RunMolproJ zcaposm      qw    08/08/2025 21:43:29                                    1        
+ 210232 2.00192 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210233 2.00192 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210234 2.00191 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210235 2.00191 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210236 2.00191 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210237 2.00191 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210238 2.00190 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210239 2.00190 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210240 2.00190 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210241 2.00189 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210242 2.00189 RunMolproJ zcaposm      qw    08/08/2025 21:43:30                                    1        
+ 210243 2.00189 RunMolproJ zcaposm      qw    08/08/2025 21:43:31                                    1        
+ 210244 2.00189 RunMolproJ zcaposm      qw    08/08/2025 21:43:31                                    1        
+ 210245 2.00188 RunMolproJ zcaposm      qw    08/08/2025 21:43:31                                    1        
+ 210246 2.00188 RunMolproJ zcaposm      qw    08/08/2025 21:43:31                                    1        
+ 210247 2.00188 RunMolproJ zcaposm      qw    08/08/2025 21:43:31                                    1        
+ 210248 2.00188 RunMolproJ zcaposm      qw    08/08/2025 21:43:31                                    1        
+ 210249 2.00187 RunMolproJ zcaposm      qw    08/08/2025 21:43:31                                    1        
+ 210250 2.00187 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210251 2.00187 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210252 2.00187 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210253 2.00186 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210254 2.00186 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210255 2.00186 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210256 2.00186 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210257 2.00185 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210258 2.00185 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210259 2.00185 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210260 2.00185 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210261 2.00184 RunMolproJ zcaposm      qw    08/08/2025 21:43:32                                    1        
+ 210262 2.00184 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210263 2.00184 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210264 2.00184 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210265 2.00183 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210266 2.00183 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210267 2.00183 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210268 2.00183 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210269 2.00182 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210270 2.00182 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210271 2.00182 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210272 2.00182 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210273 2.00181 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210274 2.00181 RunMolproJ zcaposm      qw    08/08/2025 21:43:33                                    1        
+ 210275 2.00181 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210276 2.00181 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210277 2.00180 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210278 2.00180 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210279 2.00180 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210280 2.00180 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210281 2.00180 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210282 2.00179 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210283 2.00179 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210284 2.00179 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210285 2.00179 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210286 2.00178 RunMolproJ zcaposm      qw    08/08/2025 21:43:34                                    1        
+ 210287 2.00178 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210288 2.00178 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210289 2.00178 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210290 2.00177 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210291 2.00177 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210292 2.00177 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210293 2.00177 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210294 2.00177 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210295 2.00176 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210296 2.00176 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210297 2.00176 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210298 2.00176 RunMolproJ zcaposm      qw    08/08/2025 21:43:35                                    1        
+ 210299 2.00175 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210300 2.00175 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210301 2.00175 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210302 2.00175 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210303 2.00175 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210304 2.00174 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210305 2.00174 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210306 2.00174 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210307 2.00174 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210308 2.00173 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210309 2.00173 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210310 2.00173 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210311 2.00173 RunMolproJ zcaposm      qw    08/08/2025 21:43:36                                    1        
+ 210313 2.00173 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210314 2.00172 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210315 2.00172 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210316 2.00172 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210317 2.00172 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210318 2.00171 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210319 2.00171 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210320 2.00171 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210321 2.00171 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210322 2.00171 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210323 2.00170 RunMolproJ zcaposm      qw    08/08/2025 21:43:37                                    1        
+ 210324 2.00170 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210325 2.00170 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210326 2.00170 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210327 2.00170 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210328 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210329 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210330 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210331 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210332 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210333 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210334 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210335 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210336 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:38                                    1        
+ 210337 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210338 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210339 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210340 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210341 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210342 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210343 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210344 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210345 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210346 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210347 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210348 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:39                                    1        
+ 210349 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210350 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210351 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210352 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210353 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210354 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210355 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210356 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210357 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210358 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210359 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210360 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210361 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:40                                    1        
+ 210362 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210363 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210364 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210365 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210366 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210367 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210368 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210369 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210370 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210371 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210372 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210373 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:41                                    1        
+ 210374 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210375 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210376 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210377 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210378 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210379 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210380 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210381 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210382 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
+ 210383 2.00169 RunMolproJ zcaposm      qw    08/08/2025 21:43:42                                    1        
